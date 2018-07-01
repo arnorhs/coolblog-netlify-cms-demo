@@ -1,5 +1,5 @@
 ---
-path: another-one
+path: "/blog/another-one"
 date: '2018-07-01'
 title: this is another entry
 ---
